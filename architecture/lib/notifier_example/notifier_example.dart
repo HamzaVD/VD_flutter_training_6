@@ -1,4 +1,4 @@
-import 'package:architecture/notifier/counter.dart';
+import 'package:architecture/notifier_example/counter.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
